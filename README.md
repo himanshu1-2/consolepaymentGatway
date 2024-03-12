@@ -11,3 +11,5 @@ To run the Payment Gateway System:
 
 Ensure you have Java installed on your system.
 Compile all Java files in the project using the javac command:
+Run using 
+Java Main
